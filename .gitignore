@@ -338,3 +338,4 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/AppCenterBuildHookTest/AppCenterBuildHookTest.Android/Resources/values/test.xml
